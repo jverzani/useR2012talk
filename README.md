@@ -8,6 +8,6 @@ To use it should be easy -- if you have `devtools` installed!
 
 ```
     install_github("gWidgetsWWW2", "jverzani")
-    install_github(useR2012talk, "jverzani")
+    install_github("useR2012talk", "jverzani")
     require("useR2012talk")
 ```
