@@ -5,7 +5,7 @@ Version: 1.0
 Date: 2012-06-14
 Author: John Verzani
 Maintainer: me <jverzani@gmail.com>
-Require: gWidgetsWWW2
+Require: gWidgetsWWW2, markdown, MASS
 Description: Load package to see presentation
 License: GPL3
 Collate:
