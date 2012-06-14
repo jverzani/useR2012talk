@@ -1,0 +1,12 @@
+Package: useR2012talk
+Type: Package
+Title: Package containing talk on gWidgetsWWW2 at useR2012, held at Vanderbilt
+Version: 1.0
+Date: 2012-06-14
+Author: John Verzani
+Maintainer: me <jverzani@gmail.com>
+Require: gWidgetsWWW2
+Description: Load package to see presentation
+License: GPL3
+Collate:
+    'zzz.R'
